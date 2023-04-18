@@ -14,8 +14,7 @@ Data Visualization, joint plots
 F Statistics
 
 ## Technologies
-Python
-Jupyter
+Python, Jupyter
 
 ## Contact
 Hayden Truong: htruon5@emory.edu
