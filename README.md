@@ -18,6 +18,7 @@ Python, Jupyter
 
 ## Contact
 Hayden Truong: htruon5@emory.edu
+
 Tom Zhang: hzha494@emory.edu
 
 ## Work Cited
