@@ -21,4 +21,7 @@ Jupyter
 Hayden Truong: htruon5@emory.edu
 Tom Zhang: hzha494@emory.edu
 
+## Work Cited
+Steven Ruggles, Sarah Flood, Ronald Goeken, Josiah Grover, Erin Meyer, Jose Pacas and Matthew Sobek. IPUMS USA: Version 12.0 [dataset]. Minneapolis, MN: IPUMS, 2022.
+https://doi.org/10.18128/D010.V12.0
 Link towards data set: https://1drv.ms/u/s!AtTU-xu24LiomzoQvrIvnEdyciWY?e=q79w0u
